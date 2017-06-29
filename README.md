@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis-Coursera-
-Course Material + Project Solution
+This Repo Contains All the Project Works given during the course
